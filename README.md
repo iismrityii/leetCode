@@ -31,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/iismrityii/leetCode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
