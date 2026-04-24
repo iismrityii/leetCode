@@ -9,10 +9,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Array
 | Problem Name | Difficulty |
