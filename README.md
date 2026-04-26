@@ -12,6 +12,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/iismrityii/leetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,8 @@
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3794-reverse-string-prefix](https://github.com/iismrityii/leetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->
