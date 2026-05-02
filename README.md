@@ -39,6 +39,7 @@
 | [1816-truncate-sentence](https://github.com/iismrityii/leetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/iismrityii/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/iismrityii/leetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2574-left-and-right-sum-differences](https://github.com/iismrityii/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/iismrityii/leetCode/tree/main/2615-sum-of-distances/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
