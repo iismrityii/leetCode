@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/iismrityii/leetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -95,4 +96,12 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/iismrityii/leetCode/tree/main/0015-3sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
