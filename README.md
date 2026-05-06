@@ -51,6 +51,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/iismrityii/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/iismrityii/leetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/iismrityii/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -83,6 +84,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,12 +105,14 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/iismrityii/leetCode/tree/main/0015-3sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/iismrityii/leetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/iismrityii/leetCode/tree/main/0015-3sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
