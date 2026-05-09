@@ -26,6 +26,7 @@
 | [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/iismrityii/leetCode/tree/main/3110-score-of-a-string/) | Easy |
+| [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/iismrityii/leetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/iismrityii/leetCode/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -76,6 +77,7 @@
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/iismrityii/leetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/iismrityii/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -142,4 +144,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
+| [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
