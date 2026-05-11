@@ -9,6 +9,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2615-sum-of-distances](https://github.com/iismrityii/leetCode/tree/main/2615-sum-of-distances/) | Medium |
+| [3146-permutation-difference-between-two-strings](https://github.com/iismrityii/leetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -28,6 +29,7 @@
 | [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/iismrityii/leetCode/tree/main/3110-score-of-a-string/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/iismrityii/leetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/iismrityii/leetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
