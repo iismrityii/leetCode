@@ -66,6 +66,7 @@
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
+| [3683-earliest-time-to-finish-one-task](https://github.com/iismrityii/leetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/iismrityii/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iismrityii/leetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Trie
