@@ -50,6 +50,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/iismrityii/leetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/iismrityii/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/iismrityii/leetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/iismrityii/leetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -85,6 +86,7 @@
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/iismrityii/leetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/iismrityii/leetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
