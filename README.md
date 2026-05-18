@@ -18,6 +18,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -84,6 +85,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -98,6 +100,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/iismrityii/leetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [2652-sum-multiples](https://github.com/iismrityii/leetCode/tree/main/2652-sum-multiples/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iismrityii/leetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
