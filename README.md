@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -57,6 +58,7 @@
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/iismrityii/leetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
