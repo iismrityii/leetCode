@@ -62,6 +62,7 @@
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/iismrityii/leetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1390-four-divisors](https://github.com/iismrityii/leetCode/tree/main/1390-four-divisors/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/iismrityii/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/iismrityii/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/iismrityii/leetCode/tree/main/1816-truncate-sentence/) | Easy |
@@ -113,6 +114,7 @@
 | [0007-reverse-integer](https://github.com/iismrityii/leetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1390-four-divisors](https://github.com/iismrityii/leetCode/tree/main/1390-four-divisors/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2652-sum-multiples](https://github.com/iismrityii/leetCode/tree/main/2652-sum-multiples/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
