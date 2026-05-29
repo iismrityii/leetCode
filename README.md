@@ -81,6 +81,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/iismrityii/leetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/iismrityii/leetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -119,6 +120,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2652-sum-multiples](https://github.com/iismrityii/leetCode/tree/main/2652-sum-multiples/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/iismrityii/leetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iismrityii/leetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
