@@ -77,6 +77,7 @@
 | [1929-concatenation-of-array](https://github.com/iismrityii/leetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -176,6 +177,7 @@
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 ## Bit Manipulation
@@ -198,6 +200,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
