@@ -60,6 +60,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/iismrityii/leetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/iismrityii/leetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -200,6 +201,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0991-broken-calculator](https://github.com/iismrityii/leetCode/tree/main/0991-broken-calculator/) | Medium |
@@ -231,6 +233,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
