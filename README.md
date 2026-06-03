@@ -74,6 +74,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/iismrityii/leetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1390-four-divisors](https://github.com/iismrityii/leetCode/tree/main/1390-four-divisors/) | Medium |
+| [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/iismrityii/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
@@ -190,6 +191,7 @@
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/iismrityii/leetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -216,6 +218,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/iismrityii/leetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1328-break-a-palindrome](https://github.com/iismrityii/leetCode/tree/main/1328-break-a-palindrome/) | Medium |
+| [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iismrityii/leetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -243,6 +246,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
+| [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
