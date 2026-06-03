@@ -99,6 +99,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/iismrityii/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/iismrityii/leetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -201,6 +202,7 @@
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -231,6 +233,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
