@@ -102,6 +102,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/iismrityii/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -133,6 +134,7 @@
 | [1929-concatenation-of-array](https://github.com/iismrityii/leetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/iismrityii/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -206,6 +208,7 @@
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 ## Bit Manipulation
@@ -265,6 +268,7 @@
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iismrityii/leetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
