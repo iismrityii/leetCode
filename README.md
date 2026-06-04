@@ -29,6 +29,7 @@
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/iismrityii/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1328-break-a-palindrome](https://github.com/iismrityii/leetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -229,6 +230,7 @@
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/iismrityii/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0991-broken-calculator](https://github.com/iismrityii/leetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -256,6 +258,7 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/iismrityii/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/iismrityii/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1544-make-the-string-great](https://github.com/iismrityii/leetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/iismrityii/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
