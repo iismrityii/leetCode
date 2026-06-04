@@ -97,6 +97,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iismrityii/leetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/iismrityii/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/iismrityii/leetCode/tree/main/2615-sum-of-distances/) | Medium |
@@ -212,6 +213,7 @@
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iismrityii/leetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -247,6 +249,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 ## Counting Sort
@@ -276,6 +279,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iismrityii/leetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iismrityii/leetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Game Theory
