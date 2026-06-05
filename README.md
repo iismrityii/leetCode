@@ -10,6 +10,7 @@
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iismrityii/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
@@ -77,6 +78,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/iismrityii/leetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1390-four-divisors](https://github.com/iismrityii/leetCode/tree/main/1390-four-divisors/) | Medium |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
@@ -208,6 +210,7 @@
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/iismrityii/leetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
@@ -258,6 +261,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
