@@ -120,6 +120,7 @@
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/iismrityii/leetCode/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3282-reach-end-of-array-with-max-score](https://github.com/iismrityii/leetCode/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -171,6 +172,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2652-sum-multiples](https://github.com/iismrityii/leetCode/tree/main/2652-sum-multiples/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/iismrityii/leetCode/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/iismrityii/leetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -322,4 +324,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/iismrityii/leetCode/tree/main/0164-maximum-gap/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3115-maximum-prime-difference](https://github.com/iismrityii/leetCode/tree/main/3115-maximum-prime-difference/) | Medium |
 <!---LeetCode Topics End-->
