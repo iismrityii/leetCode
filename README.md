@@ -172,6 +172,7 @@
 | [0007-reverse-integer](https://github.com/iismrityii/leetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0991-broken-calculator](https://github.com/iismrityii/leetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1323-maximum-69-number](https://github.com/iismrityii/leetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1390-four-divisors](https://github.com/iismrityii/leetCode/tree/main/1390-four-divisors/) | Medium |
@@ -258,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +312,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
+| [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 ## Heap (Priority Queue)
@@ -339,4 +342,8 @@
 | ------- | ------- |
 | [3115-maximum-prime-difference](https://github.com/iismrityii/leetCode/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3556-sum-of-largest-prime-substrings](https://github.com/iismrityii/leetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
