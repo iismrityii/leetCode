@@ -49,6 +49,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/iismrityii/leetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iismrityii/leetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/iismrityii/leetCode/tree/main/3110-score-of-a-string/) | Easy |
@@ -113,6 +114,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iismrityii/leetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iismrityii/leetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/iismrityii/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
