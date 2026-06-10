@@ -15,6 +15,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2540-minimum-common-value](https://github.com/iismrityii/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/iismrityii/leetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/iismrityii/leetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -112,6 +113,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iismrityii/leetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2540-minimum-common-value](https://github.com/iismrityii/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/iismrityii/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -195,6 +197,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2540-minimum-common-value](https://github.com/iismrityii/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -225,6 +228,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/iismrityii/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/iismrityii/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2540-minimum-common-value](https://github.com/iismrityii/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/iismrityii/leetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
