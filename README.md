@@ -136,6 +136,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/iismrityii/leetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
+| [3379-transformed-array](https://github.com/iismrityii/leetCode/tree/main/3379-transformed-array/) | Easy |
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/iismrityii/leetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/iismrityii/leetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -174,6 +175,7 @@
 | [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3379-transformed-array](https://github.com/iismrityii/leetCode/tree/main/3379-transformed-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/iismrityii/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
