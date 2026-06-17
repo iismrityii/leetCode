@@ -288,6 +288,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/iismrityii/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/iismrityii/leetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/iismrityii/leetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2595-number-of-even-and-odd-bits](https://github.com/iismrityii/leetCode/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
