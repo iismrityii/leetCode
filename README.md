@@ -101,6 +101,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/iismrityii/leetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1720-decode-xored-array](https://github.com/iismrityii/leetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/iismrityii/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/iismrityii/leetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/iismrityii/leetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -285,6 +286,7 @@
 | [0231-power-of-two](https://github.com/iismrityii/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/iismrityii/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1720-decode-xored-array](https://github.com/iismrityii/leetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/iismrityii/leetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Recursion
