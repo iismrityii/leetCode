@@ -133,6 +133,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/iismrityii/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/iismrityii/leetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iismrityii/leetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -295,6 +296,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/iismrityii/leetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/iismrityii/leetCode/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/iismrityii/leetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
