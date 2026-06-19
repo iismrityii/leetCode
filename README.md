@@ -197,6 +197,7 @@
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0991-broken-calculator](https://github.com/iismrityii/leetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1323-maximum-69-number](https://github.com/iismrityii/leetCode/tree/main/1323-maximum-69-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iismrityii/leetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/iismrityii/leetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1390-four-divisors](https://github.com/iismrityii/leetCode/tree/main/1390-four-divisors/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/iismrityii/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -290,6 +291,7 @@
 | [0191-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/iismrityii/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iismrityii/leetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/iismrityii/leetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/iismrityii/leetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/iismrityii/leetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
