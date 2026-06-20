@@ -254,6 +254,7 @@
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/iismrityii/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iismrityii/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/iismrityii/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/iismrityii/leetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -405,4 +406,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iismrityii/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
