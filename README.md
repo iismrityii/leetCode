@@ -215,6 +215,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iismrityii/leetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2652-sum-multiples](https://github.com/iismrityii/leetCode/tree/main/2652-sum-multiples/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/iismrityii/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/iismrityii/leetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iismrityii/leetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/iismrityii/leetCode/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -406,6 +407,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/iismrityii/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/iismrityii/leetCode/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3556-sum-of-largest-prime-substrings](https://github.com/iismrityii/leetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 ## Memoization
@@ -425,4 +427,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iismrityii/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/iismrityii/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
