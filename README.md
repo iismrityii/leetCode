@@ -9,6 +9,7 @@
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/iismrityii/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iismrityii/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -37,6 +38,7 @@
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iismrityii/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/iismrityii/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1328-break-a-palindrome](https://github.com/iismrityii/leetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -69,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/iismrityii/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
