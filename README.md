@@ -88,6 +88,7 @@
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/iismrityii/leetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/iismrityii/leetCode/tree/main/0135-candy/) | Hard |
+| [0137-single-number-ii](https://github.com/iismrityii/leetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iismrityii/leetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/iismrityii/leetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -301,6 +302,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/iismrityii/leetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/iismrityii/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/iismrityii/leetCode/tree/main/0338-counting-bits/) | Easy |
