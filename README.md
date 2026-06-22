@@ -14,6 +14,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iismrityii/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/iismrityii/leetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/iismrityii/leetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -50,6 +51,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iismrityii/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/iismrityii/leetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/iismrityii/leetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/iismrityii/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
