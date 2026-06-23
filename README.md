@@ -4,6 +4,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/iismrityii/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0525-contiguous-array](https://github.com/iismrityii/leetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
@@ -34,6 +35,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/iismrityii/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/iismrityii/leetCode/tree/main/0443-string-compression/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
@@ -282,6 +284,7 @@
 | [0015-3sum](https://github.com/iismrityii/leetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/iismrityii/leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0164-maximum-gap](https://github.com/iismrityii/leetCode/tree/main/0164-maximum-gap/) | Medium |
+| [0242-valid-anagram](https://github.com/iismrityii/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
