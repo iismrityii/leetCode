@@ -12,6 +12,7 @@
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/iismrityii/leetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/iismrityii/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -111,6 +112,7 @@
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/iismrityii/leetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -263,6 +265,7 @@
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/iismrityii/leetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/iismrityii/leetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/iismrityii/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/iismrityii/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
