@@ -33,6 +33,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3556-sum-of-largest-prime-substrings](https://github.com/iismrityii/leetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/iismrityii/leetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iismrityii/leetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## String
@@ -91,6 +92,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/iismrityii/leetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/iismrityii/leetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/iismrityii/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iismrityii/leetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -270,6 +273,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/iismrityii/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/iismrityii/leetCode/tree/main/2615-sum-of-distances/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +449,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,4 +458,12 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iismrityii/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/iismrityii/leetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/iismrityii/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
