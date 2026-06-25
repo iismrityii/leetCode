@@ -30,6 +30,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/iismrityii/leetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/iismrityii/leetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/iismrityii/leetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3556-sum-of-largest-prime-substrings](https://github.com/iismrityii/leetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -173,6 +174,7 @@
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/iismrityii/leetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/iismrityii/leetCode/tree/main/3379-transformed-array/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/iismrityii/leetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/iismrityii/leetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/iismrityii/leetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -255,6 +257,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2540-minimum-common-value](https://github.com/iismrityii/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/iismrityii/leetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
