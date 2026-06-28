@@ -134,6 +134,7 @@
 | [1732-find-the-highest-altitude](https://github.com/iismrityii/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/iismrityii/leetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/iismrityii/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iismrityii/leetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/iismrityii/leetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/iismrityii/leetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1929-concatenation-of-array](https://github.com/iismrityii/leetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -321,6 +322,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/iismrityii/leetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/iismrityii/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iismrityii/leetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/iismrityii/leetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iismrityii/leetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -379,6 +381,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iismrityii/leetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/iismrityii/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iismrityii/leetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/iismrityii/leetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iismrityii/leetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
