@@ -11,6 +11,7 @@
 | [0525-contiguous-array](https://github.com/iismrityii/leetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0781-rabbits-in-forest](https://github.com/iismrityii/leetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iismrityii/leetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/iismrityii/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -117,6 +118,7 @@
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iismrityii/leetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0781-rabbits-in-forest](https://github.com/iismrityii/leetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -237,6 +239,7 @@
 | [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/iismrityii/leetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0991-broken-calculator](https://github.com/iismrityii/leetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/iismrityii/leetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1323-maximum-69-number](https://github.com/iismrityii/leetCode/tree/main/1323-maximum-69-number/) | Easy |
@@ -377,6 +380,7 @@
 | [0134-gas-station](https://github.com/iismrityii/leetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/iismrityii/leetCode/tree/main/0135-candy/) | Hard |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/iismrityii/leetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iismrityii/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
