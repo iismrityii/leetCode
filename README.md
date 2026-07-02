@@ -43,6 +43,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/iismrityii/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/iismrityii/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/iismrityii/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -436,6 +437,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/iismrityii/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0338-counting-bits](https://github.com/iismrityii/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -503,5 +505,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/iismrityii/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/iismrityii/leetCode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
