@@ -9,7 +9,7 @@ class Solution {
         for(int ans : hm.keySet()) {
             int freq = hm.get(ans);
             int groupSize = ans + 1;
-            int grps = (freq + groupSize - 1) / groupSize;
+            int grps = (int)Math.ceil((double)(freq) / groupSize);
 
             t += grps * groupSize;
         }
