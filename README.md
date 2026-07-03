@@ -31,6 +31,7 @@
 | [2540-minimum-common-value](https://github.com/iismrityii/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/iismrityii/leetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2956-find-common-elements-between-two-arrays](https://github.com/iismrityii/leetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/iismrityii/leetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/iismrityii/leetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -184,6 +185,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/iismrityii/leetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iismrityii/leetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/iismrityii/leetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/iismrityii/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iismrityii/leetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
