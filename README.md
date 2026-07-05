@@ -249,6 +249,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/iismrityii/leetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/iismrityii/leetCode/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/iismrityii/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/iismrityii/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -451,6 +452,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/iismrityii/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/iismrityii/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0338-counting-bits](https://github.com/iismrityii/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
@@ -486,6 +488,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/iismrityii/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
