@@ -121,6 +121,7 @@
 | [0137-single-number-ii](https://github.com/iismrityii/leetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iismrityii/leetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/iismrityii/leetCode/tree/main/0164-maximum-gap/) | Medium |
+| [0198-house-robber](https://github.com/iismrityii/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/iismrityii/leetCode/tree/main/0525-contiguous-array/) | Medium |
@@ -457,6 +458,7 @@
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/iismrityii/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/iismrityii/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0198-house-robber](https://github.com/iismrityii/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/iismrityii/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
