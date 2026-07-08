@@ -535,6 +535,7 @@
 | [0039-combination-sum](https://github.com/iismrityii/leetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/iismrityii/leetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/iismrityii/leetCode/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/iismrityii/leetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/iismrityii/leetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/iismrityii/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/iismrityii/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
