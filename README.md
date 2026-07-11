@@ -131,6 +131,7 @@
 | [0198-house-robber](https://github.com/iismrityii/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/iismrityii/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/iismrityii/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/iismrityii/leetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
@@ -473,6 +474,7 @@
 | [0198-house-robber](https://github.com/iismrityii/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/iismrityii/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/iismrityii/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/iismrityii/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
@@ -549,6 +551,7 @@
 | [0078-subsets](https://github.com/iismrityii/leetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/iismrityii/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/iismrityii/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0494-target-sum](https://github.com/iismrityii/leetCode/tree/main/0494-target-sum/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
