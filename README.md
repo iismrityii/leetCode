@@ -125,6 +125,7 @@
 | [0049-group-anagrams](https://github.com/iismrityii/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/iismrityii/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/iismrityii/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/iismrityii/leetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/iismrityii/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0134-gas-station](https://github.com/iismrityii/leetCode/tree/main/0134-gas-station/) | Medium |
@@ -367,6 +368,7 @@
 | [0015-3sum](https://github.com/iismrityii/leetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/iismrityii/leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/iismrityii/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/iismrityii/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0164-maximum-gap](https://github.com/iismrityii/leetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0242-valid-anagram](https://github.com/iismrityii/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
