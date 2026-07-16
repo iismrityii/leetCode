@@ -23,6 +23,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/iismrityii/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1400-construct-k-palindrome-strings](https://github.com/iismrityii/leetCode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iismrityii/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/iismrityii/leetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -68,6 +69,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1328-break-a-palindrome](https://github.com/iismrityii/leetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1400-construct-k-palindrome-strings](https://github.com/iismrityii/leetCode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1544-make-the-string-great](https://github.com/iismrityii/leetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/iismrityii/leetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
@@ -107,6 +109,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/iismrityii/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1400-construct-k-palindrome-strings](https://github.com/iismrityii/leetCode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
@@ -446,6 +449,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/iismrityii/leetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1323-maximum-69-number](https://github.com/iismrityii/leetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1328-break-a-palindrome](https://github.com/iismrityii/leetCode/tree/main/1328-break-a-palindrome/) | Medium |
+| [1400-construct-k-palindrome-strings](https://github.com/iismrityii/leetCode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/iismrityii/leetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
