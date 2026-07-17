@@ -175,6 +175,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/iismrityii/leetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/iismrityii/leetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1720-decode-xored-array](https://github.com/iismrityii/leetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/iismrityii/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/iismrityii/leetCode/tree/main/1816-truncate-sentence/) | Easy |
@@ -389,6 +390,7 @@
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/iismrityii/leetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/iismrityii/leetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/iismrityii/leetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/iismrityii/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iismrityii/leetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/iismrityii/leetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
@@ -457,6 +459,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iismrityii/leetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/iismrityii/leetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/iismrityii/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iismrityii/leetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/iismrityii/leetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
