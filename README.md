@@ -64,6 +64,7 @@
 | [0784-letter-case-permutation](https://github.com/iismrityii/leetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iismrityii/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/iismrityii/leetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/iismrityii/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/iismrityii/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -512,6 +513,7 @@
 | [0518-coin-change-ii](https://github.com/iismrityii/leetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/iismrityii/leetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/iismrityii/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/iismrityii/leetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/iismrityii/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
