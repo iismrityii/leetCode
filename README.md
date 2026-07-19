@@ -7,6 +7,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iismrityii/leetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/iismrityii/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/iismrityii/leetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/iismrityii/leetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -107,6 +108,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/iismrityii/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iismrityii/leetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -142,6 +144,7 @@
 | [0198-house-robber](https://github.com/iismrityii/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/iismrityii/leetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/iismrityii/leetCode/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/iismrityii/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/iismrityii/leetCode/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -382,6 +385,7 @@
 | [0056-merge-intervals](https://github.com/iismrityii/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0164-maximum-gap](https://github.com/iismrityii/leetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0242-valid-anagram](https://github.com/iismrityii/leetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/iismrityii/leetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
@@ -526,6 +530,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iismrityii/leetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -541,6 +546,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/iismrityii/leetCode/tree/main/0164-maximum-gap/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -567,6 +573,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -609,4 +616,8 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/iismrityii/leetCode/tree/main/0322-coin-change/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iismrityii/leetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
