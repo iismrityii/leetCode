@@ -496,6 +496,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/iismrityii/leetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -616,6 +617,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/iismrityii/leetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -631,4 +633,12 @@
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/iismrityii/leetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
