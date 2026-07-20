@@ -61,6 +61,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/iismrityii/leetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/iismrityii/leetCode/tree/main/0443-string-compression/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/iismrityii/leetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/iismrityii/leetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/iismrityii/leetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -526,6 +527,7 @@
 | [0474-ones-and-zeroes](https://github.com/iismrityii/leetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/iismrityii/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/iismrityii/leetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/iismrityii/leetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/iismrityii/leetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/iismrityii/leetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
