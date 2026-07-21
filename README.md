@@ -628,6 +628,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/iismrityii/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0322-coin-change](https://github.com/iismrityii/leetCode/tree/main/0322-coin-change/) | Medium |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/iismrityii/leetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iismrityii/leetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -644,6 +645,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/iismrityii/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/iismrityii/leetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
