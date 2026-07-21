@@ -155,6 +155,7 @@
 | [0518-coin-change-ii](https://github.com/iismrityii/leetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/iismrityii/leetCode/tree/main/0525-contiguous-array/) | Medium |
+| [0565-array-nesting](https://github.com/iismrityii/leetCode/tree/main/0565-array-nesting/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/iismrityii/leetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -622,6 +623,7 @@
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0565-array-nesting](https://github.com/iismrityii/leetCode/tree/main/0565-array-nesting/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iismrityii/leetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
