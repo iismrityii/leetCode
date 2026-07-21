@@ -208,6 +208,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/iismrityii/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2367-number-of-arithmetic-triplets](https://github.com/iismrityii/leetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2373-largest-local-values-in-a-matrix](https://github.com/iismrityii/leetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -256,6 +257,7 @@
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iismrityii/leetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2373-largest-local-values-in-a-matrix](https://github.com/iismrityii/leetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iismrityii/leetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/iismrityii/leetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/iismrityii/leetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
