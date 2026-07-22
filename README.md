@@ -194,6 +194,7 @@
 | [1720-decode-xored-array](https://github.com/iismrityii/leetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/iismrityii/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/iismrityii/leetCode/tree/main/1816-truncate-sentence/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/iismrityii/leetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/iismrityii/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iismrityii/leetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/iismrityii/leetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -490,6 +491,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/iismrityii/leetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/iismrityii/leetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/iismrityii/leetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/iismrityii/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iismrityii/leetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/iismrityii/leetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
