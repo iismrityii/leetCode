@@ -645,6 +645,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0565-array-nesting](https://github.com/iismrityii/leetCode/tree/main/0565-array-nesting/) | Medium |
 | [0841-keys-and-rooms](https://github.com/iismrityii/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/iismrityii/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/iismrityii/leetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -653,6 +654,7 @@
 | [0322-coin-change](https://github.com/iismrityii/leetCode/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/iismrityii/leetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0841-keys-and-rooms](https://github.com/iismrityii/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/iismrityii/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/iismrityii/leetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -680,4 +682,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/iismrityii/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/iismrityii/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/iismrityii/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
