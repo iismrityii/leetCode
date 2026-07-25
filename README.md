@@ -99,6 +99,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iismrityii/leetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [2938-separate-black-and-white-balls](https://github.com/iismrityii/leetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/iismrityii/leetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/iismrityii/leetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -397,6 +398,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2540-minimum-common-value](https://github.com/iismrityii/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2938-separate-black-and-white-balls](https://github.com/iismrityii/leetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/iismrityii/leetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -509,6 +511,7 @@
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
+| [2938-separate-black-and-white-balls](https://github.com/iismrityii/leetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3282-reach-end-of-array-with-max-score](https://github.com/iismrityii/leetCode/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
