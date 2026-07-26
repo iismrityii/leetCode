@@ -162,6 +162,7 @@
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/iismrityii/leetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0565-array-nesting](https://github.com/iismrityii/leetCode/tree/main/0565-array-nesting/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/iismrityii/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/iismrityii/leetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -314,6 +315,7 @@
 | [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/iismrityii/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/iismrityii/leetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0991-broken-calculator](https://github.com/iismrityii/leetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/iismrityii/leetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -412,6 +414,7 @@
 | [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/iismrityii/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/iismrityii/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/iismrityii/leetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
