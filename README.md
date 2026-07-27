@@ -192,6 +192,7 @@
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/iismrityii/leetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/iismrityii/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iismrityii/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iismrityii/leetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/iismrityii/leetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -428,6 +429,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/iismrityii/leetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iismrityii/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/iismrityii/leetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/iismrityii/leetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -583,6 +585,7 @@
 | [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/iismrityii/leetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iismrityii/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iismrityii/leetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iismrityii/leetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
