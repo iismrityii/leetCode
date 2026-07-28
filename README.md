@@ -107,6 +107,7 @@
 | [3136-valid-word](https://github.com/iismrityii/leetCode/tree/main/3136-valid-word/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/iismrityii/leetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iismrityii/leetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3556-sum-of-largest-prime-substrings](https://github.com/iismrityii/leetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/iismrityii/leetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -450,6 +451,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iismrityii/leetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iismrityii/leetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/iismrityii/leetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3556-sum-of-largest-prime-substrings](https://github.com/iismrityii/leetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 ## Bit Manipulation
@@ -531,6 +533,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/iismrityii/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iismrityii/leetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
