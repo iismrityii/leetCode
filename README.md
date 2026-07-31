@@ -681,6 +681,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/iismrityii/leetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/iismrityii/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0565-array-nesting](https://github.com/iismrityii/leetCode/tree/main/0565-array-nesting/) | Medium |
 | [0841-keys-and-rooms](https://github.com/iismrityii/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/iismrityii/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -715,6 +716,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/iismrityii/leetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/iismrityii/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -722,6 +724,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/iismrityii/leetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/iismrityii/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
