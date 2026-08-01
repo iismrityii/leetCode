@@ -486,6 +486,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iismrityii/leetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/iismrityii/leetCode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/iismrityii/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
@@ -645,6 +646,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iismrityii/leetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/iismrityii/leetCode/tree/main/0061-rotate-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/iismrityii/leetCode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iismrityii/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
