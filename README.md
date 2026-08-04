@@ -752,4 +752,8 @@
 | [0128-longest-consecutive-sequence](https://github.com/iismrityii/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/iismrityii/leetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/iismrityii/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/iismrityii/leetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
