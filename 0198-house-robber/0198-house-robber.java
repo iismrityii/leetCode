@@ -1,7 +1,8 @@
 class Solution {
+    int n;
     int dp[];
-    private int maxAmt(int i, int nums[]) {
-        if(i > nums.length - 1) {
+    private int solve(int nums[], int i) {
+        if(i >= n) {
             return 0;
         }
 
@@ -9,16 +10,16 @@ class Solution {
             return dp[i];
         }
 
-        int rob = nums[i] + maxAmt(i + 2, nums);
-        int skip = maxAmt(i + 1, nums);
+        int rob = nums[i] + solve(nums, i + 2);
+        int skip = solve(nums, i + 1);
 
-        dp[i] =  Math.max(rob, skip);
-        return dp[i];
+        return dp[i] = Math.max(rob, skip);
     }
 
     public int rob(int[] nums) {
-        dp = new int[nums.length];
+        n = nums.length;
+        dp = new int[n];
         Arrays.fill(dp, -1);
-        return maxAmt(0, nums);
+        return solve(nums, 0);
     }
 }
