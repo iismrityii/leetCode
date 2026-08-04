@@ -180,6 +180,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iismrityii/leetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/iismrityii/leetCode/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/iismrityii/leetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iismrityii/leetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/iismrityii/leetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -365,6 +366,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iismrityii/leetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/iismrityii/leetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/iismrityii/leetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
