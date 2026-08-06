@@ -760,4 +760,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/iismrityii/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/iismrityii/leetCode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/iismrityii/leetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
