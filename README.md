@@ -97,6 +97,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iismrityii/leetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/iismrityii/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/iismrityii/leetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/iismrityii/leetCode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/iismrityii/leetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
