@@ -168,6 +168,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/iismrityii/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iismrityii/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/iismrityii/leetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/iismrityii/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/iismrityii/leetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -328,6 +329,7 @@
 | [0231-power-of-two](https://github.com/iismrityii/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/iismrityii/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -501,6 +503,7 @@
 | [0050-powx-n](https://github.com/iismrityii/leetCode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/iismrityii/leetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/iismrityii/leetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Greedy
@@ -590,6 +593,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/iismrityii/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iismrityii/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/iismrityii/leetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/iismrityii/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/iismrityii/leetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -621,6 +625,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -768,4 +773,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/iismrityii/leetCode/tree/main/0322-coin-change/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
