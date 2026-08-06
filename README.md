@@ -58,6 +58,7 @@
 | [0022-generate-parentheses](https://github.com/iismrityii/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/iismrityii/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/iismrityii/leetCode/tree/main/0072-edit-distance/) | Medium |
+| [0125-valid-palindrome](https://github.com/iismrityii/leetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/iismrityii/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/iismrityii/leetCode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/iismrityii/leetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -410,6 +411,7 @@
 | [0015-3sum](https://github.com/iismrityii/leetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/iismrityii/leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0061-rotate-list](https://github.com/iismrityii/leetCode/tree/main/0061-rotate-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/iismrityii/leetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/iismrityii/leetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/iismrityii/leetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/iismrityii/leetCode/tree/main/0443-string-compression/) | Medium |
