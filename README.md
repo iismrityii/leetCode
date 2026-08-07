@@ -148,6 +148,7 @@
 | [0046-permutations](https://github.com/iismrityii/leetCode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/iismrityii/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/iismrityii/leetCode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/iismrityii/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/iismrityii/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/iismrityii/leetCode/tree/main/0078-subsets/) | Medium |
@@ -586,6 +587,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/iismrityii/leetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/iismrityii/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/iismrityii/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/iismrityii/leetCode/tree/main/0072-edit-distance/) | Medium |
@@ -662,6 +664,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/iismrityii/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/iismrityii/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/iismrityii/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
