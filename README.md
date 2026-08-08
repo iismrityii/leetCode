@@ -789,4 +789,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/iismrityii/leetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
