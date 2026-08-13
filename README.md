@@ -110,6 +110,7 @@
 | [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/iismrityii/leetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [2942-find-words-containing-character](https://github.com/iismrityii/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iismrityii/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/iismrityii/leetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/iismrityii/leetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3136-valid-word](https://github.com/iismrityii/leetCode/tree/main/3136-valid-word/) | Easy |
@@ -358,6 +359,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/iismrityii/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/iismrityii/leetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iismrityii/leetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iismrityii/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/iismrityii/leetCode/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/iismrityii/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -558,6 +560,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2938-separate-black-and-white-balls](https://github.com/iismrityii/leetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iismrityii/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/iismrityii/leetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3282-reach-end-of-array-with-max-score](https://github.com/iismrityii/leetCode/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/iismrityii/leetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
