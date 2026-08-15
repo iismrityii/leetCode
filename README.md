@@ -74,6 +74,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/iismrityii/leetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/iismrityii/leetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/iismrityii/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/iismrityii/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/iismrityii/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0784-letter-case-permutation](https://github.com/iismrityii/leetCode/tree/main/0784-letter-case-permutation/) | Medium |
@@ -536,6 +537,7 @@
 | [0316-remove-duplicate-letters](https://github.com/iismrityii/leetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iismrityii/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/iismrityii/leetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/iismrityii/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/iismrityii/leetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/iismrityii/leetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/iismrityii/leetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -587,6 +589,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/iismrityii/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iismrityii/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/iismrityii/leetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/iismrityii/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/iismrityii/leetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/iismrityii/leetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -625,6 +628,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/iismrityii/leetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/iismrityii/leetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/iismrityii/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/iismrityii/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/iismrityii/leetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1035-uncrossed-lines](https://github.com/iismrityii/leetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/iismrityii/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -810,4 +814,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/iismrityii/leetCode/tree/main/0056-merge-intervals/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/iismrityii/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
