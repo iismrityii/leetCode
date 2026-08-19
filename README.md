@@ -361,6 +361,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iismrityii/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iismrityii/leetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iismrityii/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/iismrityii/leetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/iismrityii/leetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2652-sum-multiples](https://github.com/iismrityii/leetCode/tree/main/2652-sum-multiples/) | Easy |
@@ -491,6 +492,7 @@
 | [2126-destroying-asteroids](https://github.com/iismrityii/leetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iismrityii/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iismrityii/leetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -574,6 +576,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iismrityii/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2938-separate-black-and-white-balls](https://github.com/iismrityii/leetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iismrityii/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
