@@ -32,6 +32,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iismrityii/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/iismrityii/leetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iismrityii/leetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/iismrityii/leetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -136,6 +137,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iismrityii/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1400-construct-k-palindrome-strings](https://github.com/iismrityii/leetCode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iismrityii/leetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/iismrityii/leetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -239,6 +241,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iismrityii/leetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iismrityii/leetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iismrityii/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iismrityii/leetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/iismrityii/leetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iismrityii/leetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
