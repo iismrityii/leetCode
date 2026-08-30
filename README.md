@@ -215,6 +215,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/iismrityii/leetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/iismrityii/leetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/iismrityii/leetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/iismrityii/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/iismrityii/leetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
