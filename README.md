@@ -850,4 +850,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iismrityii/leetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/iismrityii/leetCode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
