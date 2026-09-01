@@ -54,6 +54,7 @@
 | [3668-restore-finishing-order](https://github.com/iismrityii/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/iismrityii/leetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/iismrityii/leetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/iismrityii/leetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iismrityii/leetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## String
@@ -301,6 +302,7 @@
 | [3701-compute-alternating-sum](https://github.com/iismrityii/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/iismrityii/leetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iismrityii/leetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/iismrityii/leetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iismrityii/leetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
