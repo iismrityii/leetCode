@@ -92,6 +92,7 @@
 | [1328-break-a-palindrome](https://github.com/iismrityii/leetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/iismrityii/leetCode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iismrityii/leetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1544-make-the-string-great](https://github.com/iismrityii/leetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/iismrityii/leetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
@@ -466,6 +467,7 @@
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iismrityii/leetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/iismrityii/leetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/iismrityii/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iismrityii/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -869,5 +871,6 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iismrityii/leetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iismrityii/leetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->
