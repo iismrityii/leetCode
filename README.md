@@ -110,6 +110,7 @@
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/iismrityii/leetCode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2185-counting-words-with-a-given-prefix](https://github.com/iismrityii/leetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/iismrityii/leetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/iismrityii/leetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/iismrityii/leetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -262,6 +263,7 @@
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/iismrityii/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2185-counting-words-with-a-given-prefix](https://github.com/iismrityii/leetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/iismrityii/leetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2367-number-of-arithmetic-triplets](https://github.com/iismrityii/leetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/iismrityii/leetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -864,4 +866,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/iismrityii/leetCode/tree/main/0195-tenth-line/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/iismrityii/leetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->
