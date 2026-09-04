@@ -84,6 +84,7 @@
 | [0784-letter-case-permutation](https://github.com/iismrityii/leetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iismrityii/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1023-camelcase-matching](https://github.com/iismrityii/leetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/iismrityii/leetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/iismrityii/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -215,6 +216,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/iismrityii/leetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/iismrityii/leetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/iismrityii/leetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1023-camelcase-matching](https://github.com/iismrityii/leetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1035-uncrossed-lines](https://github.com/iismrityii/leetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/iismrityii/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/iismrityii/leetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -314,6 +316,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1023-camelcase-matching](https://github.com/iismrityii/leetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -467,6 +470,7 @@
 | [0844-backspace-string-compare](https://github.com/iismrityii/leetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1023-camelcase-matching](https://github.com/iismrityii/leetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iismrityii/leetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/iismrityii/leetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/iismrityii/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -871,6 +875,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1023-camelcase-matching](https://github.com/iismrityii/leetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iismrityii/leetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iismrityii/leetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->
