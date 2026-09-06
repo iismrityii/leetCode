@@ -65,6 +65,7 @@
 | [0022-generate-parentheses](https://github.com/iismrityii/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/iismrityii/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/iismrityii/leetCode/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/iismrityii/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/iismrityii/leetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/iismrityii/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/iismrityii/leetCode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -656,6 +657,7 @@
 | [0055-jump-game](https://github.com/iismrityii/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/iismrityii/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/iismrityii/leetCode/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/iismrityii/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/iismrityii/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/iismrityii/leetCode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/iismrityii/leetCode/tree/main/0198-house-robber/) | Medium |
