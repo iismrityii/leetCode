@@ -31,6 +31,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1400-construct-k-palindrome-strings](https://github.com/iismrityii/leetCode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/iismrityii/leetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iismrityii/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/iismrityii/leetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -244,6 +245,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/iismrityii/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/iismrityii/leetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/iismrityii/leetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/iismrityii/leetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1720-decode-xored-array](https://github.com/iismrityii/leetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/iismrityii/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -441,6 +443,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/iismrityii/leetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iismrityii/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iismrityii/leetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/iismrityii/leetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/iismrityii/leetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/iismrityii/leetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
