@@ -121,6 +121,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/iismrityii/leetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/iismrityii/leetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iismrityii/leetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iismrityii/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iismrityii/leetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/iismrityii/leetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/iismrityii/leetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -494,6 +495,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/iismrityii/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/iismrityii/leetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iismrityii/leetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iismrityii/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/iismrityii/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iismrityii/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/iismrityii/leetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
@@ -626,6 +628,7 @@
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iismrityii/leetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iismrityii/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iismrityii/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2551-put-marbles-in-bags](https://github.com/iismrityii/leetCode/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2938-separate-black-and-white-balls](https://github.com/iismrityii/leetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iismrityii/leetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -696,6 +699,7 @@
 | [1143-longest-common-subsequence](https://github.com/iismrityii/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1402-reducing-dishes](https://github.com/iismrityii/leetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iismrityii/leetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iismrityii/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
