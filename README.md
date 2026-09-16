@@ -23,6 +23,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iismrityii/leetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/iismrityii/leetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1124-longest-well-performing-interval](https://github.com/iismrityii/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/iismrityii/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/iismrityii/leetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/iismrityii/leetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -224,6 +225,7 @@
 | [1023-camelcase-matching](https://github.com/iismrityii/leetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1035-uncrossed-lines](https://github.com/iismrityii/leetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/iismrityii/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1124-longest-well-performing-interval](https://github.com/iismrityii/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/iismrityii/leetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/iismrityii/leetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -463,6 +465,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/iismrityii/leetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iismrityii/leetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/iismrityii/leetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1124-longest-well-performing-interval](https://github.com/iismrityii/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/iismrityii/leetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iismrityii/leetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/iismrityii/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -657,6 +660,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/iismrityii/leetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iismrityii/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1124-longest-well-performing-interval](https://github.com/iismrityii/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/iismrityii/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iismrityii/leetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/iismrityii/leetCode/tree/main/1544-make-the-string-great/) | Easy |
@@ -824,6 +828,7 @@
 | [0316-remove-duplicate-letters](https://github.com/iismrityii/leetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/iismrityii/leetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iismrityii/leetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1124-longest-well-performing-interval](https://github.com/iismrityii/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iismrityii/leetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
