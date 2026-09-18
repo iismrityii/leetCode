@@ -116,6 +116,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/iismrityii/leetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/iismrityii/leetCode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/iismrityii/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iismrityii/leetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/iismrityii/leetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -269,6 +270,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iismrityii/leetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iismrityii/leetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/iismrityii/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/iismrityii/leetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iismrityii/leetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iismrityii/leetCode/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
@@ -494,6 +496,7 @@
 | [1768-merge-strings-alternately](https://github.com/iismrityii/leetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/iismrityii/leetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iismrityii/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/iismrityii/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/iismrityii/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/iismrityii/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/iismrityii/leetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
