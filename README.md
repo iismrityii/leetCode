@@ -136,6 +136,7 @@
 | [3136-valid-word](https://github.com/iismrityii/leetCode/tree/main/3136-valid-word/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/iismrityii/leetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/iismrityii/leetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iismrityii/leetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/iismrityii/leetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3556-sum-of-largest-prime-substrings](https://github.com/iismrityii/leetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
@@ -374,6 +375,7 @@
 | [3174-clear-digits](https://github.com/iismrityii/leetCode/tree/main/3174-clear-digits/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iismrityii/leetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3379-transformed-array](https://github.com/iismrityii/leetCode/tree/main/3379-transformed-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/iismrityii/leetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/iismrityii/leetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/iismrityii/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Math
