@@ -222,6 +222,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iismrityii/leetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iismrityii/leetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/iismrityii/leetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/iismrityii/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/iismrityii/leetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1023-camelcase-matching](https://github.com/iismrityii/leetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1035-uncrossed-lines](https://github.com/iismrityii/leetCode/tree/main/1035-uncrossed-lines/) | Medium |
@@ -334,6 +335,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/iismrityii/leetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/iismrityii/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/iismrityii/leetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iismrityii/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/iismrityii/leetCode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -819,6 +821,7 @@
 | [0322-coin-change](https://github.com/iismrityii/leetCode/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/iismrityii/leetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0841-keys-and-rooms](https://github.com/iismrityii/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/iismrityii/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/iismrityii/leetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/iismrityii/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/iismrityii/leetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
