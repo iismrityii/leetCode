@@ -1,7 +1,7 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
         boolean vis[] = new boolean[n];
-        Deque<Integer> q = new ArrayDeque<>();
+        Queue<Integer> q = new LinkedList<>();
         List<List<Integer>> adj = new ArrayList<>();
 
         for(int i = 0; i < n; i++) {
@@ -21,15 +21,14 @@ class Solution {
 
         while(!q.isEmpty()) {
             int curr = q.poll();
-            
             if(curr == destination) {
                 return true;
             }
 
             for(int x : adj.get(curr)) {
                 if(!vis[x]) {
-                    q.offer(x);
                     vis[x] = true;
+                    q.offer(x);
                 }
             }
         }
