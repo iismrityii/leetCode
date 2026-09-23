@@ -176,6 +176,7 @@
 | [0039-combination-sum](https://github.com/iismrityii/leetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/iismrityii/leetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/iismrityii/leetCode/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/iismrityii/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/iismrityii/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/iismrityii/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/iismrityii/leetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -343,6 +344,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/iismrityii/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/iismrityii/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/iismrityii/leetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/iismrityii/leetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -392,6 +394,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/iismrityii/leetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0048-rotate-image](https://github.com/iismrityii/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/iismrityii/leetCode/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/iismrityii/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iismrityii/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
