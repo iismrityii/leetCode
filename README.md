@@ -237,6 +237,7 @@
 | [1023-camelcase-matching](https://github.com/iismrityii/leetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1035-uncrossed-lines](https://github.com/iismrityii/leetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/iismrityii/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1051-height-checker](https://github.com/iismrityii/leetCode/tree/main/1051-height-checker/) | Easy |
 | [1124-longest-well-performing-interval](https://github.com/iismrityii/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/iismrityii/leetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/iismrityii/leetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -550,6 +551,7 @@
 | [0846-hand-of-straights](https://github.com/iismrityii/leetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/iismrityii/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iismrityii/leetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1051-height-checker](https://github.com/iismrityii/leetCode/tree/main/1051-height-checker/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/iismrityii/leetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/iismrityii/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/iismrityii/leetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -671,6 +673,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/iismrityii/leetCode/tree/main/0561-array-partition/) | Easy |
+| [1051-height-checker](https://github.com/iismrityii/leetCode/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iismrityii/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/iismrityii/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/iismrityii/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -959,4 +962,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iismrityii/leetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/iismrityii/leetCode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
