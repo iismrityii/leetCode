@@ -212,6 +212,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/iismrityii/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iismrityii/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/iismrityii/leetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iismrityii/leetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/iismrityii/leetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/iismrityii/leetCode/tree/main/0494-target-sum/) | Medium |
@@ -410,6 +411,7 @@
 | [0268-missing-number](https://github.com/iismrityii/leetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/iismrityii/leetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/iismrityii/leetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iismrityii/leetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/iismrityii/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/iismrityii/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/iismrityii/leetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
